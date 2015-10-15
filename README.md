@@ -1,2 +1,2 @@
 # Murmur3.net
-32 bit Murmur 3 compatible with Unity3D
+32bit Murmur3 hash algorithm compatible with Unity3D
