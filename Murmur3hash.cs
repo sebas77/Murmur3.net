@@ -4,7 +4,7 @@ using System.IO;
 /// <summary>
 /// Murmur hash.
 /// 
-/// Creates an evenly destributed uint hash from a string.
+/// Creates an evenly destributed uint hash from a byte array.
 /// Very fast and fairly unique
 /// </summary>
 
